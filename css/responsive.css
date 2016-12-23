@@ -40,7 +40,7 @@
         display: none;
     }
     .container-g {
-        margin-top: 10vh;
+        margin-top: 10%;
         max-height: 100vh;
         height: 100vh;
     }
@@ -50,7 +50,7 @@
     .row-g2 {
         height: 20vh;
     }
-    .container-g1 {}
+   
     .ghandi-text {
         font-size: 45px;
         padding-top: 15vh;
